@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import { useEffect, useState } from 'react'
 import Book from '../../components/book/Book'
 import { getBooks } from '../../services/books'

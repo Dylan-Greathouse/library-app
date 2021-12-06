@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import Author from '../author/Author'
 import './Book.css'
 

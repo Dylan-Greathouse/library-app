@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import client from './client'
 
 export async function getBooks(query) {

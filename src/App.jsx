@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import BookList from './views/Books/BookList'
 import BookDetail from './views/Books/BookDetail'
 import './App.css'
