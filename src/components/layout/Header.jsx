@@ -1,7 +1,8 @@
+/* eslint-disable prettier/prettier */
 import { Link } from 'react-router-dom'
 import logo from '../../assets/kick-off.png'
-import { signOutUser } from '../../services/users'
-import './Header.css'
+import { signOutUser } from '../../services/users';
+import './Header.css';
 
 function Header({ user, setCurrentUser }) {
   return (
